@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gkgajendra0
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS, JS, Reactjs
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Looking for data analyst role
 - 📫 How to reach me 8821900904 
 
 <!---
