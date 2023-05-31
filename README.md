@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gkgajendra0
-- 👀 I’m Looking for data analyst role
-- 📫 How to reach me 8821900904 
+- Hi, I’m Gajendra Kumar
+- I’m Looking for data analyst role
+- How to reach me 8821900904 
 - More Projects are on the way....
 
 <!---
